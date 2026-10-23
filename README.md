@@ -55,4 +55,20 @@ A full-stack personal finance app built with MongoDB, Express, React + Vite, and
 [Open Pocketwise Expense Tracker](https://pocketwise-expense-frontend.onrender.com)
 
 
+## 📸 Project Screenshots
+
+### Dashboard
+![Dashboard](dashboard.jpg)
+
+### Transactions
+![Transactions](transactions.jpg)
+
+### Monthly Budgets
+![Budgets](budgets.jpg)
+
+### Add Transaction
+![Add Transaction](add-transaction.jpg)
+
+
+
 
